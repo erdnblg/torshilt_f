@@ -32,9 +32,9 @@
       <div class="row">
         <div class="col-sm-9  main"> 
           <?php 
-          include 'hamaaralt/nav2.php';
-          ?>
-          <?php
+            include 'carousel.php'; 
+            include 'hamaaralt/nav2.php';
+
             include 'pagination/indexedlinks.php';
             include 'pagination/printlink.php';
 
