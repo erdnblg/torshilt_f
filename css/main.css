@@ -1,0 +1,113 @@
+        body{
+        	background-color: #f1f2f3;
+        	font-family: 微软雅黑,黑体,Arial;
+        }
+        .navbar{
+            padding-bottom: 5px;
+            box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.15);
+        }
+    	.navbar-brand{
+    		padding: 0;
+    	}
+        .nav-main{
+            background-color: #ff8080;
+        }
+        .nav-main .nav{
+            padding: 0 20px;
+        }
+        .nav-main .nav>li>a{
+            color: #fff;
+        }
+        .nav-main .nav>li>a:hover,
+        .nav-main .nav>li>a:focus{
+        	background-color: #fff;
+            color: #ff8080;
+        }
+        .sns{
+            font-size: 250%;
+        }
+        .fa-weibo{
+            color: #ff6666;
+        }
+        .fa-weixin{
+            color: #66cc66;
+        }
+        .main{
+        	margin-bottom: 30px;
+        } 
+        .cate-mall{
+        	background-color: #fff;
+        }
+        .post-item{
+            margin-bottom: 5px; 
+        	background-color: #fff;
+        	border-top: 1px solid #f1f2f3;
+        	transition: box-shadow 0.5s;
+        	box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.15);
+        }
+        .post-item:hover{
+            box-shadow:4px 4px 40px rgba(0,0,0, .2);
+        }
+        .item-img{
+        	max-width: 200px;
+        	padding: 0;
+        }
+        .item-body{
+            margin-top: 30px;
+            padding: 10px 20px;
+        }
+        .item-body>p{
+            color: #999999;
+        }
+        .item-buy{
+            margin-top: 25px;
+            padding: 10px 35px;
+        }
+        .item-buy .price{
+            padding: 10px 0;
+        }
+        .item-buy .buy{
+            padding: 10px 0;
+        }
+        .item-buy .price .price-num{
+        	margin-left: 10px;
+            font-size: 200%;
+            color: #ff6666;
+        }
+        .pgn{
+            font-size: 120%;
+            background-color: #fff;
+            padding: 20px 40px;
+            box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.15);
+        }
+        .sidebar .ff8080{
+            height: 50px;
+            background-color: #ff8080;
+        }
+        .sideDiv{
+            background-color: #fff;
+        	margin-bottom: 20px;
+            box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.15);
+        }
+        .sidebar-sns .sns{
+            padding-top: 30px;
+        }
+        .sns-pr{
+            padding: 20px 40px;
+        }
+        .side-ad{
+            transition: box-shadow 0.5s;
+        }
+        .side-ad:hover{
+            box-shadow:4px 10px 20px rgba(0,0,0, .2);
+        }
+        .sideCate .sideCateList .thumbnail{
+        	margin-bottom: 0;
+        }
+        footer{
+        	background-color: #fff;
+            box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.15);
+        }
+        footer p{
+        	padding-top: 20px;
+        }

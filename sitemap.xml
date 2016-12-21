@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+<url>
+<loc>http://fontiz.com</loc>
+<priority>1.00</priority>
+<lastmod>2016-12-20</lastmod>
+<changefreq>Always</changefreq>
+</url>
+<url>
+<loc>http://fontiz.com/20.php</loc>
+<priority>0.80</priority>
+<lastmod>2016-12-20</lastmod>
+<changefreq>Always</changefreq>
+</url>
+<url>
+<loc>http://fontiz.com/99.php</loc>
+<priority>0.80</priority>
+<lastmod>2016-12-20</lastmod>
+<changefreq>Always</changefreq>
+</url>
+<url>
+<loc>http://fontiz.com/index.php</loc>
+<priority>0.80</priority>
+<lastmod>2016-12-20</lastmod>
+<changefreq>Always</changefreq>
+</url>
+</urlset>

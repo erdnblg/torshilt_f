@@ -1,0 +1,4 @@
+﻿User-agent:*
+Disallow:/hamaaralt/
+
+Sitemap: http://fontiz.com/sitemap.xml
